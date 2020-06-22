@@ -18,6 +18,7 @@ items:
 - clojure/clojure
 - micropython/micropython
 - erlang/otp
+- kanaka/mal
 - nim-lang/Nim
 - AssemblyScript/assemblyscript
 - purescript/purescript
